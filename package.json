@@ -1,0 +1,20 @@
+{
+  "name": "dileep-kumar-portfolio",
+  "version": "1.0.0",
+  "description": "Modern Premium Personal Portfolio Website for Pallapu Dileep Kumar",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -l 3000",
+    "dev": "npx serve -l 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "java",
+    "spring-boot",
+    "full-stack",
+    "ai"
+  ],
+  "author": "Pallapu Dileep Kumar",
+  "license": "MIT"
+}
